@@ -1,0 +1,40 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="Omid55">By Omid55</system:String>
+    <system:String x:Key="PromptString">Please write your number here :</system:String>
+    <system:String x:Key="TitleString">My OCR Project With Neural Networks</system:String>
+    <system:String x:Key="SaveString">Save All Data</system:String>
+    <system:String x:Key="SaveClearString">Save All And Clear Data</system:String>
+    <system:String x:Key="InputsPrompt">Number Of Inputs :</system:String>
+    <system:String x:Key="MergeData">Merge With Last Data</system:String>
+    <system:String x:Key="TestString">Test UpComing Number</system:String>
+    <system:String x:Key="TrainString">Train Network</system:String>
+    <system:String x:Key="SimulateString">Simulate Network</system:String>
+    <system:String x:Key="TrainHeaderString">Write Training Set</system:String>
+    <system:String x:Key="NetHeaderString">Work With Neural Network</system:String>
+    <system:String x:Key="TestHeaderString">Write Test Number</system:String>
+    <system:String x:Key="TrainMode">Train Mode</system:String>
+    <system:String x:Key="TestMode">Test Mode</system:String>
+    <system:String x:Key="TargetString">Now Target Is :</system:String>
+    <system:String x:Key="AdaptHeader">Network Adaptation</system:String>
+    <system:String x:Key="IsGood">Was This Result Good ?</system:String>
+    <system:String x:Key="Yes">Yes, Adapt With It</system:String>
+    <system:String x:Key="No">No</system:String>
+    <system:String x:Key="TestModeMessage">Do You Want To Go To Testing Mode Now ?</system:String>
+    <system:String x:Key="TrainMessage">Ok Networks Were Trained Well .</system:String>
+    <system:String x:Key="AdaptMessage">Ok Networks Were Adapted Well .</system:String>
+    <system:String x:Key="AdaptTitle">Net Adapt</system:String>
+    <system:String x:Key="TrainTitle">Net Train</system:String>
+    <system:String x:Key="XResults">Result From X's Network :  </system:String>
+    <system:String x:Key="YResults">Result From Y's Network :  </system:String>
+    <system:String x:Key="PResults">Result From P's Network :  </system:String>
+    <system:String x:Key="CResults">Result From Compound's Network :  </system:String>
+    <system:String x:Key="ErrorPercent">Error Percent Up To Now Is (By Your Adaptation) :  </system:String>
+    <system:String x:Key="Result">And The Result Is = >>> :  </system:String>
+    <system:String x:Key="adaptWith">I want to adapt it with my opion :</system:String>
+    <system:String x:Key="UserAdaptation">User Adaptation</system:String>
+    <system:String x:Key="Adapt">Adapt</system:String>
+
+</ResourceDictionary>

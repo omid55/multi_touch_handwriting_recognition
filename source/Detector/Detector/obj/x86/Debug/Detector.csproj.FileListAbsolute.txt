@@ -1,0 +1,46 @@
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\bin\Debug\Detector.exe
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\bin\Debug\Detector.pdb
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\MainWindow.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\App.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\Detector_MarkupCompile.cache
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\Detector.g.resources
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\Detector.Properties.Resources.resources
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\Detector.exe
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\Detector.pdb
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\Detector\Detector\obj\x86\Debug\Detector.MyResource.resources
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\Detector.exe
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\Detector.pdb
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\bin\Debug\Detector.exe
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\bin\Debug\Detector.pdb
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\MainWindow.baml
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\MyResourceDictionary.baml
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\MainWindow.g.cs
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\App.g.cs
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\Detector_MarkupCompile.cache
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\Detector.g.resources
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\Detector.Properties.Resources.resources
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\Interop.MLApp.dll
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\Detector\Detector\obj\x86\Debug\Detector.csproj.ResolveComReference.cache
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\bin\Debug\Detector.exe
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\bin\Debug\Detector.pdb
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\Interop.MLApp.dll
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\Detector.csproj.ResolveComReference.cache
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\MainWindow.baml
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\MyResourceDictionary.baml
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\MainWindow.g.cs
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\App.g.cs
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\Detector_MarkupCompile.cache
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\Detector.g.resources
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\Detector.Properties.Resources.resources
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\Detector.exe
+D:\MyProgrammingPlace\Programming\MachineLearning\Projects\Project\LATEST\Detector\Detector\obj\x86\Debug\Detector.pdb

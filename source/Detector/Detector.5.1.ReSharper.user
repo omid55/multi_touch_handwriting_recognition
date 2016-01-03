@@ -1,0 +1,426 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MyNumber.cs" caret="402" fromTop="16" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/d:MatlabCodes/f:MyAdaptations.m" caret="210" fromTop="6" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/d:MatlabCodes/f:MyOCRProject.m" caret="159" fromTop="4" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/d:MatlabCodes/f:CreateCompoundInputsFromResults.m" caret="65" fromTop="2" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:App.xaml" caret="0" fromTop="0" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/d:MatlabCodes/f:MySimulations.m" caret="162" fromTop="6" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="3396" fromTop="13" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="7706" fromTop="7" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MyResourceDictionary.xaml" caret="2868" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="0" fromTop="9" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="0" fromTop="0" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="11211" fromTop="9" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="3993" fromTop="5" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="10843" fromTop="11" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="5775" fromTop="7" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MyResourceDictionary.xaml" caret="2850" fromTop="21" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="8971" fromTop="25" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="14240" fromTop="16" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="8857" fromTop="18" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="9331" fromTop="30" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="15660" fromTop="13" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="16206" fromTop="9" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="16206" fromTop="10" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="5481" fromTop="7" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="16206" fromTop="20" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="1015" fromTop="14" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="4537" fromTop="19" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="6149" fromTop="8" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="16240" fromTop="19" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="16158" fromTop="22" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml" caret="7210" fromTop="8" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MyResourceDictionary.xaml" caret="2543" fromTop="3" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="4202" fromTop="22" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="3774" fromTop="16" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="15685" fromTop="8" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="13984" fromTop="16" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="14512" fromTop="8" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="15294" fromTop="9" />
+      <File id="DB866BE2-2FAF-454D-AAE2-E9E9C6E98730/f:MainWindow.xaml.cs" caret="15511" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="InkCanvas`0" priority="0" />
+      <Item value="collection" priority="0" />
+      <Item value="int" priority="19" />
+      <Item value="Horizontal" priority="0" />
+      <Item value="false" priority="4" />
+      <Item value="private" priority="17" />
+      <Item value="public" priority="8" />
+      <Item value="return" priority="3" />
+      <Item value="counter" priority="0" />
+      <Item value="CounterLabel" priority="0" />
+      <Item value="_counter" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="Counter" priority="0" />
+      <Item value="void" priority="3" />
+      <Item value="String`0" priority="8" />
+      <Item value="matlab" priority="15" />
+      <Item value="string" priority="31" />
+      <Item value="MessageBox`0" priority="16" />
+      <Item value="if" priority="10" />
+      <Item value="true" priority="7" />
+      <Item value="bool" priority="1" />
+      <Item value="testMode" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="new" priority="17" />
+      <Item value="StreamWriter" priority="1" />
+      <Item value="pTest" priority="0" />
+      <Item value="swx" priority="4" />
+      <Item value="Nullable`0" priority="0" />
+      <Item value="ModeLabel" priority="0" />
+      <Item value="salam" priority="0" />
+      <Item value="ResourceDictionary`0" priority="1" />
+      <Item value="ResourceDictionary" priority="1" />
+      <Item value="rd" priority="1" />
+      <Item value="double" priority="5" />
+      <Item value="result" priority="2" />
+      <Item value="null" priority="9" />
+      <Item value="NumbersTextBox" priority="0" />
+      <Item value="ResultLabel" priority="1" />
+      <Item value="max" priority="0" />
+      <Item value="avg" priority="1" />
+      <Item value="Math`0" priority="2" />
+      <Item value="r" priority="4" />
+      <Item value="Vector`0" priority="0" />
+      <Item value="xVector" priority="1" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="MyNumber`0" priority="4" />
+      <Item value="this" priority="5" />
+      <Item value="Points" priority="0" />
+      <Item value="Target" priority="0" />
+      <Item value="data" priority="16" />
+      <Item value="MyNumber" priority="1" />
+      <Item value="points" priority="2" />
+      <Item value="TargetTextBox" priority="0" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="try" priority="1" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="ex" priority="2" />
+      <Item value="MessageBoxButton`0" priority="2" />
+      <Item value="MessageBoxImage`0" priority="1" />
+      <Item value="List&lt;MyNumber&gt;" priority="1" />
+      <Item value="inputs" priority="0" />
+      <Item value="outputs" priority="1" />
+      <Item value="MAXSIZE" priority="0" />
+      <Item value="for" priority="3" />
+      <Item value="j" priority="4" />
+      <Item value="JournalEntry`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="KeyUpEvent" priority="0" />
+      <Item value="inputsX" priority="8" />
+      <Item value="swp" priority="0" />
+      <Item value="inputsP" priority="0" />
+      <Item value="targets" priority="10" />
+      <Item value="inputsY" priority="0" />
+      <Item value="swt" priority="0" />
+      <Item value="saveAndCloseFile`0" priority="0" />
+      <Item value="testInput" priority="0" />
+      <Item value="i" priority="2" />
+      <Item value="testInputX" priority="1" />
+      <Item value="SimulateButton" priority="0" />
+      <Item value="StreamReader`0" priority="2" />
+      <Item value="StreamReader" priority="1" />
+      <Item value="sr" priority="3" />
+      <Item value="MLApp" priority="0" />
+      <Item value="MLApp`0" priority="0" />
+      <Item value="loadMatlabFile`0" priority="0" />
+      <Item value="xRes" priority="1" />
+      <Item value="yRes" priority="0" />
+      <Item value="pRes" priority="0" />
+      <Item value="myResult" priority="0" />
+      <Item value="res" priority="2" />
+      <Item value="myWindow" priority="2" />
+      <Item value="XResultLabel" priority="0" />
+      <Item value="MyResultLabel" priority="0" />
+      <Item value="ResultStackPanel" priority="0" />
+      <Item value="IsGood" priority="0" />
+      <Item value="yes" priority="0" />
+      <Item value="Char`0" priority="0" />
+      <Item value="nowResult" priority="2" />
+      <Item value="Olive" priority="0" />
+      <Item value="RoyalBlue" priority="0" />
+      <Item value="Boolean`0" priority="0" />
+      <Item value="YesButton" priority="0" />
+      <Item value="ColorOffset" priority="1" />
+      <Item value="MyInkCanvas" priority="1" />
+      <Item value="MyLinearGradientBrush" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="worker" priority="6" />
+      <Item value="BackgroundWorker" priority="1" />
+      <Item value="MessageBoxResult`0" priority="0" />
+      <Item value="as" priority="3" />
+      <Item value="FindResource`0" priority="6" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="myTrainFunction`0" priority="0" />
+      <Item value="sender" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="UriKind`0" priority="0" />
+      <Item value="App`0" priority="0" />
+      <Item value="SelectedCellsChangedEventArgs`0" priority="0" />
+      <Item value="from" priority="1" />
+      <Item value="where" priority="0" />
+      <Item value="select" priority="1" />
+      <Item value="s" priority="1" />
+      <Item value="enteredTargets" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="q" priority="0" />
+      <Item value="item" priority="2" />
+      <Item value="qq" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="Class1`0" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="updateTargetsLabel`0" priority="1" />
+      <Item value="str" priority="14" />
+      <Item value="char" priority="1" />
+      <Item value="delims" priority="0" />
+      <Item value="StringReader" priority="0" />
+      <Item value="files" priority="1" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Regex`0" priority="0" />
+      <Item value="mergeCheckBox" priority="1" />
+      <Item value="srx" priority="4" />
+      <Item value="lastInputsX" priority="2" />
+      <Item value="getMyStr`0" priority="2" />
+      <Item value="sry" priority="0" />
+      <Item value="finally" priority="1" />
+      <Item value="StylusUpEvent" priority="0" />
+      <Item value="lastTargets" priority="0" />
+      <Item value="adaptWith" priority="0" />
+      <Item value="popLink" priority="5" />
+      <Item value="Fade" priority="0" />
+      <Item value="nowAdaptIt`0" priority="0" />
+      <Item value="Adapt" priority="0" />
+      <Item value="filepath" priority="0" />
+      <Item value="Visibility`0" priority="0" />
+      <Item value="UIElement`0" priority="0" />
+      <Item value="VisibilityProperty" priority="0" />
+      <Item value="Visibility" priority="0" />
+      <Item value="runsCount" priority="3" />
+      <Item value="errorCount" priority="2" />
+      <Item value="Run`0" priority="0" />
+      <Item value="ErrorPercentLabel" priority="0" />
+      <Item value="errorPerc" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.InkCanvasGestureEventArgs">
+      <Item value="Strokes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.StaticResourceExtension">
+      <Item value="InputsPrompt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Expander">
+      <Item value="IsExpanded" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="6" />
+      <Item value="Height" priority="1" />
+      <Item value="ActualHeight" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MLApp.MLApp">
+      <Item value="Execute`0" priority="12" />
+      <Item value="GetVariable`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="14" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="1" />
+      <Item value="Join`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Close`0" priority="7" />
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="Flush`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.ResourceDictionary">
+      <Item value="Values" priority="0" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="Source" priority="0" />
+      <Item value="MergedDictionaries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Floor`0" priority="0" />
+      <Item value="Abs`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Count" priority="0" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Detector.MyNumber">
+      <Item value="Points" priority="6" />
+      <Item value="Target" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="StackTrace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="OK" priority="1" />
+      <Item value="YesNo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Error" priority="0" />
+      <Item value="Information" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.StylusPointCollection">
+      <Item value="Indexer" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.StylusPoint">
+      <Item value="X" priority="3" />
+      <Item value="PressureFactor" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="0" />
+      <Item value="Remove`0" priority="2" />
+      <Item value="Single`1" priority="0" />
+      <Item value="Length" priority="1" />
+      <Item value="Join`4" priority="0" />
+      <Item value="Split`0" priority="4" />
+      <Item value="Substring`0" priority="2" />
+      <Item value="IndexOf`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="3" />
+      <Item value="Close`0" priority="4" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Detector.MainWindow">
+      <Item value="Height" priority="0" />
+      <Item value="ResultLabel" priority="0" />
+      <Item value="Resources" priority="2" />
+      <Item value="FindResource`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.DoubleAnimation">
+      <Item value="Storyboard`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="ActualWidth" priority="0" />
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.GradientStop">
+      <Item value="Offset" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.MouseEventArgs">
+      <Item value="GetPosition`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.InkCanvas">
+      <Item value="Width" priority="0" />
+      <Item value="ActualHeight" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Point">
+      <Item value="X" priority="1" />
+      <Item value="Y" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.TouchEventArgs">
+      <Item value="GetTouchPoint`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.TouchPoint">
+      <Item value="Position" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.LinearGradientBrush">
+      <Item value="StartPoint" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BackgroundWorker">
+      <Item value="DoWork" priority="1" />
+      <Item value="RunWorkerCompleted" priority="0" />
+      <Item value="RunWorkerAsync`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxResult">
+      <Item value="Yes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.DoWorkEventArgs">
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="Relative" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Detector.App">
+      <Item value="ResourceAssembly" priority="0" />
+      <Item value="GetResourceStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.Collection`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Distinct`1" priority="3" />
+      <Item value="ToArray`1" priority="0" />
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerator`1">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Detector.Class1">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
+      <Item value="IsChecked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.Popup">
+      <Item value="IsOpen" priority="4" />
+      <Item value="IsVisible" priority="1" />
+      <Item value="Visibility" priority="1" />
+      <Item value="StaysOpen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.UIElement">
+      <Item value="IsVisibleProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
