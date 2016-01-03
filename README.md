@@ -1,0 +1,2 @@
+# multi_touch_handwriting_recognition
+Multi touch handwriting recognition project
